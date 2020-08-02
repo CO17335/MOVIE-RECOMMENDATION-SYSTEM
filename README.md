@@ -38,34 +38,34 @@ Before starting with this Python project with source code, we should be familiar
 
 In our Data Science project, we will make use of these 2 packages – &#39; pandas &#39;, &#39;scipy&#39;
 
-![Screenshot](1.png)
+![][Screenshot](1.png)
 
 **2 We read the CSV file with pandas**
 
 The pandas library is very useful when we need to perform various operations on data files like CSV. **pd.read\_csv()** reads the CSV file and loads it into the pandas DataFrame. We have assigned each column with a name for easy accessing.
 
-![Screenshot](12.png)
+![][Screenshot](2.png)
 
 
 **3 Data Pre-processing**
 
 From the above table, we observe that the userId column, as well as the movieId column, consist of integers. Furthermore, we need to convert the genres present in the movie\_data dataframe into a more usable format by the users.
 
-![Screenshot](3.png)
+![][Screenshot](3.png)
 
 
-In order to do so, we will first create a encoding to create a corrMatrix that comprises of corresponding genres for each of the films ![Screenshot](4.png)
+In order to do so, we will first create a encoding to create a corrMatrix that comprises of corresponding genres for each of the films ![][Screenshot](4.png)
 
 **4 Create the recommendation system function**
 
-We will create a top\_recommendations variable which will be initialized to 10, specifying the number of films to each user. We will then use the predict() function that will identify similar items and will rank them appropriately. Here, each rating is used as a weight. Each weight is multiplied with related similarities. Finally, everything is added in the end. ![Screenshot](5.png)
+We will create a top\_recommendations variable which will be initialized to 10, specifying the number of films to each user. We will then use the predict() function that will identify similar items and will rank them appropriately. Here, each rating is used as a weight. Each weight is multiplied with related similarities. Finally, everything is added in the end. ![][Screenshot](5.png)
 
 
 **5 Steps to create GUI**
 
 **5.1 Import the module and create a screen**
 
-Here we will import the Tkinter module and create a screen namely root ![Screenshot](6.png)
+Here we will import the Tkinter module and create a screen namely root ![][Screenshot](6.png)
 
 
 **5.2 Creating notebook**
@@ -74,28 +74,28 @@ Now we will create a notebook which will contain 3 frames :
 
 &quot;CREATE DATABASE &quot; , &quot;VIEW DATABASE &quot; , &quot;RECOMMENDATION &quot;
 
-![Screenshot](7.png)
+![][Screenshot](7.png)
 
 
 **5.3 ADDING WIDGET IN CREATE DATABASE TAB**
 
 In this we will add widget like lable , entry , listbox , button and radio button
 
-![Screenshot](8.png)
+![][Screenshot](8.png)
 
 
 **5.4 ADDING FUNCTIONALITY TO ENTRYAND LISTBOX**
 
 For this we will use 2 functions i.e. on\_keyrelease and listbox\_ update
 
-![Screenshot](9.png)
+![][Screenshot](9.png)
 
 
 **5.5 ADDING CAPABILITY TO RADIO BUTTON**
 
 When we select a radio button for rateing the movie that number is added to the rat list .
 
-![Screenshot](10.png)
+![][Screenshot](10.png)
 
     1. **BUTTONS CAPABILITY**
 
@@ -105,14 +105,14 @@ In this GUI we have two buttons i.e.
 
 This button saves the data in the tabular form and display the same in the c\_database frame (create database tab)
 
-![Screenshot](11.png)
+![][Screenshot](11.png)
 
 
 **2.RECOMMEND MOVIES**
 
 This button calls the similar\_movies function and return the list of top 20 recommended movies and display the same in the data frame in the tab RECOMMEND MOVIES
 
-![Screenshot](12.png)
+![][Screenshot](12.png)
 
 
 
@@ -125,28 +125,28 @@ This button calls the similar\_movies function and return the list of top 20 rec
 
 **1 Run Python File**
 
-We can run the Python file from the command prompt. ![Screenshot](13.png)
+We can run the Python file from the command prompt. ![][Screenshot](13.png)
 
 
 **2**** Screenshot of the program**
 
-![Screenshot](14.png)
-![Screenshot](15.png)
-![Screenshot](16.png)
-![Screenshot](17.png)
-![Screenshot](18.png)
+![][Screenshot](14.png)
+![][Screenshot](15.png)
+![][Screenshot](16.png)
+![][Screenshot](17.png)
+![][Screenshot](18.png)
 
 **3 OUTPUT**
 
-![Screenshot](19.png)
+![][Screenshot](19.png)
 
 
 
 
 **STEP 2 OUTPUT**
 
-![Screenshot](20.png)
+![][Screenshot](20.png)
 
 **STEP 3 OUTPUT**
 
-![Screenshot](21.png)
+![][Screenshot](21.png)
