@@ -103,14 +103,14 @@ In this GUI we have two buttons i.e.
 
 This button saves the data in the tabular form and display the same in the c\_database frame (create database tab)
 
-![](Screenshot/11.png)
+![](Screenshot/11.jpg)
 
 
 **2.RECOMMEND MOVIES**
 
 This button calls the similar\_movies function and return the list of top 20 recommended movies and display the same in the data frame in the tab RECOMMEND MOVIES
 
-![](Screenshot/12.png)
+![](Screenshot/12.jpg)
 
 
 
@@ -123,28 +123,28 @@ This button calls the similar\_movies function and return the list of top 20 rec
 
 **1 Run Python File**
 
-We can run the Python file from the command(prompt. ![/Screenshot/13.png)
+We can run the Python file from the command(prompt. ![/Screenshot/13.jpg)
 
 
 **2**** Screenshot of the program**
 
-![](Screenshot/14.png)
-![](Screenshot/5.png)
-![](Screenshot/16.png)
-![](Screenshot/17.png)
-![](Screenshot/18.png)
+![](Screenshot/14.jpg)
+![](Screenshot/5.jpg)
+![](Screenshot/16.jpg)
+![](Screenshot/17.jpg)
+![](Screenshot/18.jpg)
 
 **3 OUTPUT**
 
-![](Screenshot/19.png)
+![](Screenshot/19.jpg)
 
 
 
 
 **STEP 2 OUTPUT**
 
-![](Screenshot/20.png)
+![](Screenshot/20.jpg)
 
 **STEP 3 OUTPUT**
 
-![](Screenshot/21.png)
+![](Screenshot/21.jpg)
