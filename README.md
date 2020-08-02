@@ -123,7 +123,7 @@ This button calls the similar\_movies function and return the list of top 20 rec
 
 **1 Run Python File**
 
-We can run the Python file from the command(prompt. ![/Screenshot/13.jpg)
+We can run the Python file from the command prompt. ![](Screenshot/13.jpg)
 
 
 **2**** Screenshot of the program**
