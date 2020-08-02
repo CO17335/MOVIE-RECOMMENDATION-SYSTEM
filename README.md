@@ -129,7 +129,7 @@ We can run the Python file from the command(prompt. ![/Screenshot/13.jpg)
 **2**** Screenshot of the program**
 
 ![](Screenshot/14.jpg)
-![](Screenshot/5.jpg)
+![](Screenshot/15.jpg)
 ![](Screenshot/16.jpg)
 ![](Screenshot/17.jpg)
 ![](Screenshot/18.jpg)
