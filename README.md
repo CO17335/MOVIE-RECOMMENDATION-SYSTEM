@@ -136,7 +136,7 @@ We can run the Python file from the command prompt. ![](Screenshot/13.jpg)
 
 **3 OUTPUT**
 
-![](Screenshot/19.jpg)
+![](Screenshot/19.JPG)
 
 
 
